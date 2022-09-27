@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+There’re more than one billion websites on the Internet. One website can easily get lost in there. But we can make a website that will shine in the digital depths of the internet.
+
 <!--
 
 **Here are some ideas to get you started:**
